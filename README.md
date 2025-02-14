@@ -11,7 +11,7 @@ Welcome to the SONAR - Rock vs Mine Prediction project repository! This project 
 7. Results  
 8. License  
 
-## Features  https://github.com/DarshiniMahesh/SONAR-Rock-vs-Mine-Prediction
+## Features  
 - Classification of SONAR signals into rocks or mines.  
 - Data preprocessing and feature scaling.  
 - Exploratory data analysis to understand the dataset.  
