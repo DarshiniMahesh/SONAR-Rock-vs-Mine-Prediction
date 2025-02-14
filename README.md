@@ -18,6 +18,7 @@ Welcome to the SONAR - Rock vs Mine Prediction project repository! This project 
 - Model training using Random Forest classifier.  
 - Evaluation using various metrics.  
 
+
 ## Installation  
 ### To run this project, ensure you have the following dependencies installed :    
 - Python  
