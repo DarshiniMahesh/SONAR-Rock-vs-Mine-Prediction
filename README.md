@@ -29,8 +29,8 @@ Welcome to the SONAR - Rock vs Mine Prediction project repository! This project 
 pip install numpy pandas scikit-learn matplotlib  
 
 ### Clone the repository:  
-- git clone https://github.com/DarshiniMahesh/sonar-rock-vs-mine.git
-- cd sonar-rock-vs-mine
+- git clone https://github.com/DarshiniMahesh/SONAR-Rock-vs-Mine-Prediction.git  
+- cd SONAR-Rock-vs-Mine-Prediction  
 
 ## Usage  
 Run the main script to train the model and make predictions:  
