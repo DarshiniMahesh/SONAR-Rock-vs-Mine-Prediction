@@ -9,7 +9,6 @@ Welcome to the SONAR - Rock vs Mine Prediction project repository! This project 
 5. Data Preprocessing  
 6. Models and Algorithms  
 7. Results  
-8. License  
 
 ## Features  
 - Classification of SONAR signals into rocks or mines.  
@@ -55,5 +54,3 @@ The model is trained using a Random Forest classifier from the Scikit-learn libr
 ## Results  
 The model achieved an accuracy of 85% on the test dataset. Detailed results and analysis, including confusion matrix and classification report.  
 
-## License  
-This project is licensed under the MIT License.  
